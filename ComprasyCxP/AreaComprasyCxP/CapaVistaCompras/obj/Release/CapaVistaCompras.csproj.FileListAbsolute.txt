@@ -1,0 +1,13 @@
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Release\CapaVistaCompras.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Release\CapaVistaCompras.Area_Compras.resources
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Release\CapaVistaCompras.MantenimientoBodega2030.resources
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Release\CapaVistaCompras.MantenimientoInventario2035.resources
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Release\CapaVistaCompras.MantenimientoLinea2050.resources
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Release\CapaVistaCompras.MantenimientoMarca2045.resources
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Release\CapaVistaCompras.MantenimientoProducto2025.resources
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Release\CapaVistaCompras.MantenimientoProveedores2020.resources
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Release\CapaVistaCompras.MantenimientoTipoInventario2040.resources
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Release\CapaVistaCompras.Properties.Resources.resources
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Release\CapaVistaCompras.reportes.resources
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Release\CapaVistaCompras.csproj.GenerateResource.cache
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Release\CapaVistaCompras.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Release\CapaControladorCompras.dll
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Release\CapaControladorCompras.pdb
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Release\CapaModeloCompras.dll
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Release\CapaModeloCompras.pdb
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Release\CapaControladorCompras.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Release\CapaControladorCompras.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Release\CapaControladorCompras.csproj.CopyComplete
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Release\CapaControladorCompras.dll
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Release\CapaControladorCompras.pdb

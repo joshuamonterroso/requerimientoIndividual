@@ -1,0 +1,6 @@
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\bin\Release\CapaModeloCompras.dll
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\bin\Release\CapaModeloCompras.pdb
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Release\CapaModeloCompras.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Release\CapaModeloCompras.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Release\CapaModeloCompras.dll
+C:\Users\mgado\Desktop\copialocal\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Release\CapaModeloCompras.pdb
